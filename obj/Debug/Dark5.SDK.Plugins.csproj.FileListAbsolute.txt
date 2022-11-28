@@ -1,0 +1,9 @@
+C:\Users\Karim\Downloads\SDK.Plugins-master\Dark5.SDK.Plugins-master\bin\Debug\Dark5.SDK.Plugins.dll
+C:\Users\Karim\Downloads\SDK.Plugins-master\Dark5.SDK.Plugins-master\obj\Debug\Dark5.SDK.Plugins.csproj.AssemblyReference.cache
+C:\Users\Karim\Downloads\SDK.Plugins-master\Dark5.SDK.Plugins-master\obj\Debug\Dark5.SDK.Plugins.csproj.CoreCompileInputs.cache
+C:\Users\Karim\Downloads\SDK.Plugins-master\Dark5.SDK.Plugins-master\obj\Debug\Dark5.SDK.Plugins.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Plugins-master\bin\Debug\Dark5.SDK.Plugins.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Plugins-master\bin\Debug\Dark5.SDK.Core.net.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Plugins-master\obj\Debug\Dark5.SDK.Plugins.csproj.CoreCompileInputs.cache
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Plugins-master\obj\Debug\Dark5.SDK.Plugins.csproj.CopyComplete
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Plugins-master\obj\Debug\Dark5.SDK.Plugins.dll
